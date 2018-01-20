@@ -1,0 +1,97 @@
+{
+  "I'd love to" : {
+    "бы с радостью" : [ "I would love to talk about that." ],
+    "бы с удовольствием" : [ "Well, I would love to see zombies." ],
+    "бы хотел" : [ "I'd love to stay and chat." ]
+  },
+  "[all] by themselves" : {
+    "само по себе" : [ "Arms by themselves do not cause violent conflict." ],
+    "самостоятельно" : [ "They are not able to do it by themselves." ]
+  },
+  "[as] a last resort" : {
+    "в крайнем случае" : [ "Don't give him the check except as a last resort.", "Force could be used only as a last resort." ],
+    "в последнюю очередь" : [ "You must think of me as a last resort." ],
+    "как последнее средство" : [ "Military assets should therefore be used as a last resort." ]
+  },
+  "a good deal" : {
+    "много" : [ "There has been a good deal of controversy around the issue of outsourcing labor." ],
+    "многое" : [ "The distinction means a good deal to some people." ],
+    "хорошая сделка" : [ "I thought that was a good deal." ]
+  },
+  "as {ADVERB} as possible" : {
+    "как можно более" : [ "Please be as precise as possible in your answers." ],
+    "насколько возможно" : [ "Explain the fact as clearly as possible." ]
+  },
+  "at one time" : {
+    "в свое время" : [ "He was a wonderful artist at one time, you know." ],
+    "когда-то" : [ "But at one time, it was fairly commonplace to think of yourself as a maker." ],
+    "одно время" : [ "You know that he and I were very close at one time." ],
+    "одновременно" : [ "This slider allows you to control the red, green, and blue colors at one time in unison." ]
+  },
+  "be about to [do something]" : {
+    "{собираться!быть готовым} [что-то сделать]" : [ "I think I may be about to get involved with a married man." ]
+  },
+  "for instance" : {
+    "в частности" : [ "The draft could be considerably shortened, for instance by consolidating paragraphs 1 and 2." ],
+    "например" : [ "Regional case studies, for instance, would be useful." ]
+  },
+  "for nothing" : {
+    "впустую" : [ "I'm sorry you made this long trip for nothing, Commander." ],
+    "зря" : [ "You made this trip for nothing." ],
+    "напрасно" : [ "Please, tell me I didn't do all this for nothing." ]
+  },
+  "from the [very] first" : {
+    "с самого начала" : [ "That is quite cleared up now - though, indeed, it was obvious from the first." ]
+  },
+  "in [actual] fact" : {
+    "{на!в} самом деле" : [ "My first overseas experience in fact." ],
+    "действительно" : [ "However, it was confirmed that eight claims were in fact duplicates." ],
+    "фактически" : [ "Justice Pillay in fact satisfies both requirements." ]
+  },
+  "in addition" : {
+    "вдобавок" : [ "So cyber weapons are dangerous by nature, but in addition, they're emerging in a much more unstable environment." ],
+    "кроме того" : [ "The Tribunal has in addition 32 gratis personnel as at 31 October 1996." ],
+    "помимо этого" : [ "Austria is in addition providing training to teachers, social workers and medical doctors." ]
+  },
+  "in order to" : {
+    "[с тем] чтобы" : [ "Consequently, today we must globalize democracy in order to humanize globalization." ],
+    "в целях" : [ "Ukraine might consider seeking international assistance in order to tackle the issue." ],
+    "с целью" : [ "The Government must punish such conduct in order to protect children." ]
+  },
+  "in over time" : {
+    "поэтапно" : [ "Timescales for change are also considered since changes may be implemented immediately or phased in over time." ]
+  },
+  "or else" : {
+    "или же" : [ "Maintenance may be awarded in monthly or weekly payments or else as a lump sum." ],
+    "иначе" : [ "I suggest you leave the default, or else the machine won't be able to connection to other machines." ],
+    "либо" : [ "It could either be done during the session or else, a few months later, by correspondence." ]
+  },
+  "over time" : {
+    "со временем" : [ "Effects over time may also differ.", "Women's participation in political life has changed over time." ]
+  },
+  "so far" : {
+    "до настоящего времени" : [ "UNECE activities so far have focused mainly on good governance in public institutions." ],
+    "до сих пор" : [ "However, progress so far has been slow and insufficient." ],
+    "на данный момент" : [ "Two applications have so far been received." ],
+    "пока" : [ "Obama so far seems unable to break this fiscal logjam." ]
+  },
+  "take place" : {
+    "иметь место" : [ "Consultations may take place with the legal adviser when rejection is being considered." ],
+    "проводиться" : [ "A review should take place every 10 to 15 years." ],
+    "происходить" : [ "Sampling should ideally take place within 24 hours of unloading." ],
+    "состояться" : [ "Preparatory training has been initiated for his first flight, which in principle should take place in 2005." ]
+  },
+  "to this end" : {
+    "в этой связи" : [ "He requested technical assistance and information to this end." ],
+    "с этой целью" : [ "Pakistan will participate fully in all international cooperative efforts to this end." ]
+  },
+  "way around" : {
+    "вариант решения" : [ "There is no way around that task." ],
+    "способ" : [ "One way around this is to draw pictures." ],
+    "способ {обойти!избежать}" : [ "But there is a way around it, pretty one.!I can't figure out a way around that." ]
+  },
+  "way out" : {
+    "выход" : [ "There's got to be another way out." ],
+    "выход из {положения!ситуации}" : [ "We're forced to look for another way out of this situation." ]
+  }
+}
